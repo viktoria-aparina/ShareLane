@@ -1,0 +1,10 @@
+# Project exclude paths
+# Intellij
+/.idea/
+/shelf/
+/workspace.xml
+*.iml
+*.iws
+
+# Maven
+/target/
